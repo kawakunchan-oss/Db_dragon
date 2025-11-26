@@ -51,5 +51,11 @@
     "password": "88",
     "role": "owner",
     "expiresAt": "permanent"
+  },
+  {
+    "username": "Cihuy",
+    "password": "12",
+    "role": "owner",
+    "expiresAt": "permanent"
   }
 ]
