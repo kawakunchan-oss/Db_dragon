@@ -63,5 +63,12 @@
     "password": "63",
     "role": "reseller",
     "expiresAt": "permanent"
+  },
+  {
+    "username": "Vub",
+    "password": "15",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1764182968941
   }
 ]
