@@ -9,5 +9,11 @@
   {
     "username": "Paman",
     "password": "555"
+  },
+  {
+    "username": "Bahan",
+    "password": "67",
+    "role": "reseller",
+    "expiresAt": "2025-12-26T18:23:44.177Z"
   }
 ]
