@@ -27,5 +27,11 @@
     "password": "44",
     "role": "owner",
     "expiresAt": "2025-12-26T18:26:25.306Z"
+  },
+  {
+    "username": "Buk",
+    "password": "58",
+    "role": "user",
+    "expiresAt": "2025-12-26T18:28:01.944Z"
   }
 ]
