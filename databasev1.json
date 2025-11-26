@@ -15,5 +15,11 @@
     "password": "67",
     "role": "reseller",
     "expiresAt": "2025-12-26T18:23:44.177Z"
+  },
+  {
+    "username": "Paha",
+    "password": "buk",
+    "role": "user",
+    "expiresAt": "2026-02-26T18:25:44.893Z"
   }
 ]
