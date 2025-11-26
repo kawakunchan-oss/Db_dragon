@@ -77,5 +77,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1764183064600
+  },
+  {
+    "username": "Bug",
+    "password": "510",
+    "role": "reseller",
+    "expiresAt": 1766775807533,
+    "createdAt": 1764183807533
   }
 ]
