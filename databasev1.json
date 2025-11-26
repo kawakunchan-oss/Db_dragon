@@ -39,5 +39,11 @@
     "password": "11",
     "role": "user",
     "expiresAt": "2025-12-26T18:38:35.367Z"
+  },
+  {
+    "username": "Ban",
+    "password": "11",
+    "role": "user",
+    "expiresAt": "permanent"
   }
 ]
