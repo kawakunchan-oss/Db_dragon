@@ -1,0 +1,23 @@
+[
+  {
+    "username": "user1",
+    "password": "123",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1732670000000
+  },
+  {
+    "username": "reseller1",
+    "password": "123",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1732670000000
+  },
+  {
+    "username": "owner1",
+    "password": "123",
+    "role": "owner",
+    "expiresAt": null,
+    "createdAt": 1732670000000
+  }
+]
