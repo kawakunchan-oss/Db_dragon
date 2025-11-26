@@ -57,5 +57,11 @@
     "password": "12",
     "role": "owner",
     "expiresAt": "permanent"
+  },
+  {
+    "username": "Coba",
+    "password": "63",
+    "role": "reseller",
+    "expiresAt": "permanent"
   }
 ]
