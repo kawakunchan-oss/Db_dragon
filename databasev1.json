@@ -5,5 +5,9 @@
     "role": "owner",
     "expiresAt": null,
     "createdAt": 1732670000000
+  },
+  {
+    "username": "Paman",
+    "password": "555"
   }
 ]
